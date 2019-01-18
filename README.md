@@ -2,36 +2,36 @@
 
 ### Themes
 
-'Dark (Visual Studio)'
+`Dark (Visual Studio)`
 
-'Atom One Dark' [Link](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark)
+`Atom One Dark` [Link](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark)
 
 
 ### Extensions
 
-'Atom One Dark Theme' [Link](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark)
+`Atom One Dark Theme` [Link](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark)
 
-'Auto Close Tag' [Link](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+`Auto Close Tag` [Link](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 
-'Auto Rename Tag' [Link](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+`Auto Rename Tag` [Link](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 
-'Bracket Pair Colorizer' [Link](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+`Bracket Pair Colorizer` [Link](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 
-'Docker' [Link](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker)
+`Docker` [Link](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker)
 
-'HTML CSS Support' [Link](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
+`HTML CSS Support` [Link](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
 
-'Material Icon Theme' [Link](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+`Material Icon Theme` [Link](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
-'Paste and Indent' [Link](https://marketplace.visualstudio.com/items?itemName=Rubymaniac.vscode-paste-and-indent)
+`Paste and Indent` [Link](https://marketplace.visualstudio.com/items?itemName=Rubymaniac.vscode-paste-and-indent)
 
-'Path Intellisense' [Link](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+`Path Intellisense` [Link](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 
-'Sass' [Link](https://marketplace.visualstudio.com/items?itemName=robinbentley.sass-indented)
+`Sass` [Link](https://marketplace.visualstudio.com/items?itemName=robinbentley.sass-indented)
 
-'SCSS IntelliSense' [Link](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss)
+`SCSS IntelliSense` [Link](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss)
 
-*In case I can't use NPM or other manager: 
-'Live Sass Compiler' [Link](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass)
-'Live Server' [Link](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+*In case I can`t use NPM or other manager: 
+`Live Sass Compiler` [Link](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass)
+`Live Server` [Link](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 *
