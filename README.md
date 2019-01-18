@@ -33,6 +33,7 @@
 
 
 *In case I can't use NPM or other manager:*
+
 `Live Sass Compiler` [Link](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass)
 
 `Live Server` [Link](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
