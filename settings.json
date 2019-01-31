@@ -1,14 +1,15 @@
 {
     "editor.fontSize": 18,
     "editor.wordWrap": "on",
+    "editor.tabSize": 2,
     "explorer.confirmDragAndDrop": false,
     "explorer.sortOrder": "filesFirst",
     "workbench.startupEditor": "newUntitledFile",
     "workbench.iconTheme": "material-icon-theme",
     "workbench.colorTheme": "Atom One Dark",
+    "window.zoomLevel": 0,
     "liveServer.settings.donotShowInfoMsg": true,
-    "liveSassCompile.settings.formats": [
-        {
+    "liveSassCompile.settings.formats": [{
             "format": "expanded",
             "extensionName": ".css",
             "savePath": "/css"
@@ -23,7 +24,5 @@
         "> 1%",
         "last 2 versions"
     ],
-    "git.ignoreLimitWarning": true,
-    "window.zoomLevel": 0,
-    "liveServer.settings.CustomBrowser": "firefox"
+    "git.ignoreLimitWarning": true
 }
