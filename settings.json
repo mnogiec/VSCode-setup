@@ -9,6 +9,7 @@
     "workbench.colorTheme": "Atom One Dark",
     "window.zoomLevel": 0,
     "liveServer.settings.donotShowInfoMsg": true,
+    "liveSassCompile.settings.generateMap": false,
     "liveSassCompile.settings.formats": [{
             "format": "expanded",
             "extensionName": ".css",
