@@ -1,7 +1,7 @@
 {
     "editor.fontSize": 18,
     "editor.wordWrap": "on",
-    "editor.tabSize": 3,
+    "editor.tabSize": 2,
     "explorer.confirmDragAndDrop": false,
     "explorer.sortOrder": "filesFirst",
     "workbench.startupEditor": "newUntitledFile",
