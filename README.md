@@ -19,6 +19,8 @@
 
 `Docker` [Link](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker)
 
+`Prettier` [Link](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+
 `HTML CSS Support` [Link](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
 
 `Material Icon Theme` [Link](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
