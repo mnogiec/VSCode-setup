@@ -1,32 +1,31 @@
 {
-    "editor.fontSize": 18,
-    "editor.wordWrap": "on",
-    "editor.tabSize": 2,
-    "editor.formatOnSave": true,
-    "explorer.confirmDragAndDrop": false,
-    "explorer.sortOrder": "filesFirst",
-    "workbench.startupEditor": "newUntitledFile",
-    "workbench.iconTheme": "material-icon-theme",
-    "workbench.colorTheme": "Atom One Dark",
-    "window.zoomLevel": 0,
-    "prettier.singleQuote": true,
-    "prettier.jsxSingleQuote": true,
-    "liveServer.settings.donotShowInfoMsg": true,
-    "liveSassCompile.settings.generateMap": false,
-    "liveSassCompile.settings.formats": [{
-            "format": "expanded",
-            "extensionName": ".css",
-            "savePath": "/css"
-        },
-        {
-            "format": "compressed",
-            "extensionName": ".min.css",
-            "savePath": "/css"
-        }
-    ],
-    "liveSassCompile.settings.autoprefix": [
-        "> 1%",
-        "last 2 versions"
-    ],
-    "git.ignoreLimitWarning": true
+  "editor.fontSize": 18,
+  "editor.wordWrap": "on",
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.sortOrder": "filesFirst",
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Atom One Dark",
+  "window.zoomLevel": 0,
+  "prettier.singleQuote": true,
+  "prettier.printWidth": 110,
+  "prettier.jsxSingleQuote": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveSassCompile.settings.generateMap": false,
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "expanded",
+      "extensionName": ".css",
+      "savePath": "/css"
+    },
+    {
+      "format": "compressed",
+      "extensionName": ".min.css",
+      "savePath": "/css"
+    }
+  ],
+  "liveSassCompile.settings.autoprefix": ["> 1%", "last 2 versions"],
+  "git.ignoreLimitWarning": true
 }
