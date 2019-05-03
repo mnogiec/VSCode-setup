@@ -34,7 +34,7 @@
 `SCSS IntelliSense` [Link](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss)
 
 
-*In case I can't use NPM or other manager:*
+*In case I can't use Gulp:*
 
 `Live Sass Compiler` [Link](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass)
 
