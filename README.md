@@ -35,6 +35,8 @@
 
 - `vscode-styled-components` [Link](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components)
 
+- `ES7 React/Redux/GraphQL/React-Native snippets` [Link](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+
 
 **In case I can't use Gulp:**
 
