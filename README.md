@@ -25,8 +25,6 @@
 
 - `Material Icon Theme` [Link](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
-- `GitLens` [Link](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
-
 - `Paste and Indent` [Link](https://marketplace.visualstudio.com/items?itemName=Rubymaniac.vscode-paste-and-indent)
 
 - `Path Intellisense` [Link](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
