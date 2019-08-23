@@ -5,7 +5,9 @@
   "editor.formatOnSave": true,
   "explorer.confirmDragAndDrop": false,
   "explorer.sortOrder": "filesFirst",
-  "emmet.includeLanguages": { "javascript": "javascriptreact" },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
   "workbench.startupEditor": "newUntitledFile",
   "workbench.iconTheme": "material-icon-theme",
   "workbench.colorTheme": "Atom One Dark",
@@ -14,19 +16,7 @@
   "prettier.printWidth": 110,
   "prettier.jsxSingleQuote": true,
   "liveServer.settings.donotShowInfoMsg": true,
-  "liveSassCompile.settings.generateMap": false,
-  "liveSassCompile.settings.formats": [
-    {
-      "format": "expanded",
-      "extensionName": ".css",
-      "savePath": "/css"
-    },
-    {
-      "format": "compressed",
-      "extensionName": ".min.css",
-      "savePath": "/css"
-    }
-  ],
-  "liveSassCompile.settings.autoprefix": ["> 1%", "last 2 versions"],
-  "git.ignoreLimitWarning": true
+  "git.ignoreLimitWarning": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "terminal.integrated.rendererType": "dom"
 }
