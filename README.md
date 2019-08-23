@@ -19,9 +19,11 @@
 
 - `Docker` [Link](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker)
 
-- `Prettier` [Link](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- `ES7 React/Redux/GraphQL/React-Native snippets` [Link](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 
 - `HTML CSS Support` [Link](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
+
+- `Live Server` [Link](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
 - `Material Icon Theme` [Link](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
@@ -29,17 +31,10 @@
 
 - `Path Intellisense` [Link](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 
+- `Prettier` [Link](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+
 - `Sass` [Link](https://marketplace.visualstudio.com/items?itemName=robinbentley.sass-indented)
 
 - `SCSS IntelliSense` [Link](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss)
 
 - `vscode-styled-components` [Link](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components)
-
-- `ES7 React/Redux/GraphQL/React-Native snippets` [Link](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
-
-
-**In case I can't use Gulp:**
-
-- `Live Server` [Link](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-
-- `Live Sass Compiler` [Link](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass)
