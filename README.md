@@ -33,8 +33,6 @@
 
 - `Prettier` [Link](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
-- `Sass` [Link](https://marketplace.visualstudio.com/items?itemName=robinbentley.sass-indented)
-
 - `SCSS IntelliSense` [Link](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss)
 
 - `vscode-styled-components` [Link](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components)
