@@ -13,7 +13,7 @@
   "workbench.colorTheme": "Atom One Dark",
   "window.zoomLevel": 0,
   "prettier.singleQuote": true,
-  "prettier.printWidth": 110,
+  "prettier.printWidth": 80,
   "prettier.jsxSingleQuote": true,
   "prettier.jsxBracketSameLine": true,
   "liveServer.settings.donotShowInfoMsg": true,
