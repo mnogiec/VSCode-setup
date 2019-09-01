@@ -3,6 +3,7 @@
   "editor.wordWrap": "on",
   "editor.tabSize": 2,
   "editor.formatOnSave": true,
+  "files.eol": "\n",
   "explorer.confirmDragAndDrop": false,
   "explorer.sortOrder": "filesFirst",
   "emmet.includeLanguages": {
@@ -18,8 +19,17 @@
   "prettier.trailingComma": "all",
   "prettier.jsxSingleQuote": true,
   "prettier.jsxBracketSameLine": true,
+  "prettier.disableLanguages": [
+    "js"
+  ],
+  "eslint.autoFixOnSave": true,
+  "eslint.alwaysShowStatus": true,
   "liveServer.settings.donotShowInfoMsg": true,
   "git.ignoreLimitWarning": true,
   "javascript.updateImportsOnFileMove.enabled": "always",
-  "terminal.integrated.rendererType": "dom"
+  "terminal.integrated.rendererType": "dom",
+  "[javascript]": {
+    "editor.formatOnSave": false,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
 }
