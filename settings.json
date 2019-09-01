@@ -15,6 +15,7 @@
   "prettier.singleQuote": true,
   "prettier.printWidth": 110,
   "prettier.jsxSingleQuote": true,
+  "prettier.jsxBracketSameLine": true,
   "liveServer.settings.donotShowInfoMsg": true,
   "git.ignoreLimitWarning": true,
   "javascript.updateImportsOnFileMove.enabled": "always",
