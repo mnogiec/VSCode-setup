@@ -20,7 +20,8 @@
   "prettier.jsxSingleQuote": true,
   "prettier.jsxBracketSameLine": true,
   "prettier.disableLanguages": [
-    "js"
+    "javascript",
+    "javascriptreact"
   ],
   "eslint.autoFixOnSave": true,
   "eslint.alwaysShowStatus": true,
