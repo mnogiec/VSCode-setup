@@ -19,8 +19,6 @@
 
 - `Docker` [Link](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker)
 
-- `ESLint` [Link](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-
 - `ES7 React/Redux/GraphQL/React-Native snippets` [Link](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 
 - `HTML CSS Support` [Link](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
