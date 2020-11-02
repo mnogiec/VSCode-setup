@@ -28,11 +28,13 @@
     "typescriptreact"
   ],
   "eslint.codeActionsOnSave.mode": "all",
+  "eslint.alwaysShowStatus": true,
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
   },
   "liveServer.settings.donotShowInfoMsg": true,
   "git.ignoreLimitWarning": true,
   "javascript.updateImportsOnFileMove.enabled": "always",
-  "terminal.integrated.rendererType": "dom"
+  "terminal.integrated.rendererType": "dom",
+  "typescript.updateImportsOnFileMove.enabled": "always"
 }
