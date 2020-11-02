@@ -21,7 +21,9 @@
   "prettier.jsxBracketSameLine": true,
   "prettier.disableLanguages": [
     "javascript",
-    "javascriptreact"
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
   ],
   "eslint.codeActionsOnSave.mode": "all",
   "editor.codeActionsOnSave": {
