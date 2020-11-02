@@ -3,9 +3,11 @@
   "editor.wordWrap": "on",
   "editor.tabSize": 2,
   "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
   "files.eol": "\n",
   "explorer.confirmDragAndDrop": false,
   "explorer.sortOrder": "filesFirst",
+  "explorer.compactFolders": false,
   "emmet.includeLanguages": {
     "javascript": "javascriptreact"
   },
@@ -32,5 +34,5 @@
   "liveServer.settings.donotShowInfoMsg": true,
   "git.ignoreLimitWarning": true,
   "javascript.updateImportsOnFileMove.enabled": "always",
-  "terminal.integrated.rendererType": "dom",
+  "terminal.integrated.rendererType": "dom"
 }
