@@ -21,20 +21,16 @@
   "prettier.trailingComma": "all",
   "prettier.jsxSingleQuote": true,
   "prettier.jsxBracketSameLine": true,
-  "prettier.disableLanguages": [
-    "javascript",
-    "javascriptreact",
-    "typescript",
-    "typescriptreact"
-  ],
   "eslint.codeActionsOnSave.mode": "all",
   "eslint.alwaysShowStatus": true,
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
   },
-  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.padding.top": 15,
+  "editor.padding.bottom": 50,
+  "editor.scrollBeyondLastLine": false,
   "git.ignoreLimitWarning": true,
   "javascript.updateImportsOnFileMove.enabled": "always",
-  "terminal.integrated.rendererType": "dom",
-  "typescript.updateImportsOnFileMove.enabled": "always"
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "security.workspace.trust.untrustedFiles": "open",
 }
